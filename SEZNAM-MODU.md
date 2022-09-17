@@ -27,4 +27,3 @@
 - Starlight https://modrinth.com/mod/starlight
 - ViaFabric https://modrinth.com/mod/viafabric
 - Visuality https://modrinth.com/mod/visuality
-- Xaero's Minimap https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
