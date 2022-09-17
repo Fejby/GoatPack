@@ -1,9 +1,9 @@
-![GoatPack](https://i.imgur.com/jTbDusW.png)
 # GoatPack
 - ⚡ Optimalizace
-- 🗺️ Minimapa
+- 🗺️ Fabric
 - 🏕️ Shadery
-- 📦 Automatické řazení inventáře a truhel
+- 📦 Lepší F3
 - ⚙️ Vylepšené animace
 - 🔌 Připojení na servery s jinou verzí MC
+- 🌙 Dark Mode
 
