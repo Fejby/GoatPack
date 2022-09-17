@@ -14,8 +14,6 @@
 - Falling Leaves https://modrinth.com/mod/fallingleaves
 - FerriteCore https://modrinth.com/mod/ferrite-core
 - Indium https://modrinth.com/mod/indium
-- Inventory HUD+ https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge
-- Inventory Profiles Next https://modrinth.com/mod/inventory-profiles-next
 - Iris Shaders https://modrinth.com/mod/iris
 - Krypton https://modrinth.com/mod/krypton
 - LambdaBetterGrass https://modrinth.com/mod/lambdabettergrass
