@@ -1,4 +1,4 @@
-# GoatPack
+# GoatPack 🐐
 - ⚡ Optimalizace
 - 🗺️ Fabric
 - 🏕️ Shadery
