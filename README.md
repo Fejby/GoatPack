@@ -7,3 +7,4 @@
 - 🔌 Připojení na servery s jinou verzí MC
 - 🌙 Dark Mode
 
+![Goat](https://i.imgur.com/Xd1Di9f.png)
